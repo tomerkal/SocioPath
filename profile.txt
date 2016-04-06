@@ -1,0 +1,28 @@
+Username_galit
+Status_
+Friends_diana_$_kobi_$_maya_$_tomer
+Pending_
+Username_kobi
+Status_
+Friends_galit
+Pending_tomer
+Username_gilad
+Status_i should answer my phone
+Friends_tomer
+Pending_
+Username_maya
+Status_im stupid
+Friends_galit_$_tomer
+Pending_
+Username_diana
+Status_i dont love tomer anymore
+Friends_galit_$_tomer
+Pending_
+Username_tomer
+Status_i love diana
+Friends_diana_$_galit_$_Gery_$_gilad_$_maya
+Pending_
+Username_Gery
+Status_
+Friends_tomer
+Pending_
